@@ -5,9 +5,11 @@ Description: This application uses webpack to generate a PWA, so that it will ru
 
 Installation: N/A
 
-Usage: Please visit this link: https://clairebain3.github.io/weather-dashboard/
+Usage: Please visit this link: https://cbpwatexteditor.herokuapp.com/
 
 Credits N/A
 
 License Please refer to the license in the repo
+
+![Picture of webpage](/assets/pwatexteditorpic.png)
 
